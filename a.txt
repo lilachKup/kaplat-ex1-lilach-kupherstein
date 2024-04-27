@@ -1,2 +1,3 @@
 a file
 second line
+C6 change
